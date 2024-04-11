@@ -1,8 +1,6 @@
-# LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement [[Paper](https://arxiv.org/abs/2403.15042)]
+# Efficient Korean Domain-Specific LLM with Novel Iterative Data Augmentation
 
-![Thumbnail](figs/llm2llm.png)
-
-This is the code for the LLM2LLM paper.
+This code is based on the [[LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement](https://arxiv.org/abs/2403.15042)] paper.
 
 ## Reproducing Main Experiments
 
